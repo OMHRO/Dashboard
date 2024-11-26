@@ -314,6 +314,10 @@ z-index: 1;
 transition: all 2s;
 overflow: hidden;
 }
+.ourSkills-container  .skills .skill-box .skill-progress span.js
+{
+width: 60%;
+}
 .ourSkills-container  .skills .skill-box .skill-progress .h{background:orange;}
 .ourSkills-container  .skills .skill-box .skill-progress .c{background:#0000ffa8;}
 .ourSkills-container  .skills .skill-box .skill-progress .js{background:#f1f10a;}
